@@ -5,7 +5,7 @@ I've created android app using android studio and firebase authentication to reg
 ## Installation
 Clone this repository and import into **Android Studio**
 ```bash
-$ git clone https://github.com/nikhraj/Register-and-Login-App
+$ git clone https://github.com/nikhraj/Register-and-Login-App-firebaseAuth
 ```
 ## Changes you can make
 - You can change layouts from **app/src/main/res/layout**
